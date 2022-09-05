@@ -19,3 +19,4 @@ hidethisword displays all the lines in the file /etc/passwd that do not contain 
 letteronly displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 AZ replaces all characters A and c from input to Z and e respectively
 hiago is a script that removes all letters c and C from input.
+users_and_homes is a script that displays all users and their home directories, sorted by users
