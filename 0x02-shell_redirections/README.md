@@ -5,3 +5,4 @@ hellofile displays the content of the /etc/passwd file.
 4-lastlines displays the last 10 lines of /etc/passwd.
 5-firstlines displays the first 10 lines of /etc/passwd.
 6-script that displays the third line of the file iacta.
+script that creates a file named exactly
