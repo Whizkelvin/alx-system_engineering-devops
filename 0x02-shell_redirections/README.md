@@ -12,3 +12,4 @@ no_more_js is a script that deletes all the regular files not the directories wi
 directories is a script that counts the number of directories and sub-directories in the current directory.
 newest_files is a script that displays the 10 newest files in the current directory
 unique is a script that takes a list of words as input and prints only words that appear exactly once
+findthatword displays lines containing the pattern “root” from the file /etc/passwd
