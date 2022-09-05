@@ -11,3 +11,4 @@ duplicate_last_line is a script that duplicates the last line of the file iacta.
 no_more_js is a script that deletes all the regular files not the directories with a .js extension that are present in the current directory and all its subfolders.
 directories is a script that counts the number of directories and sub-directories in the current directory.
 newest_files is a script that displays the 10 newest files in the current directory
+unique is a script that takes a list of words as input and prints only words that appear exactly once
