@@ -20,3 +20,4 @@ letteronly displays all lines of the file /etc/ssh/sshd_config starting with a l
 AZ replaces all characters A and c from input to Z and e respectively
 hiago is a script that removes all letters c and C from input.
 users_and_homes is a script that displays all users and their home directories, sorted by users
+reverse is a script that reverse its input
