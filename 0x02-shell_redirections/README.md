@@ -18,3 +18,4 @@ whatsnext displays lines containing the pattern “root” and 3 lines after the
 hidethisword displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 letteronly displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 AZ replaces all characters A and c from input to Z and e respectively
+hiago is a script that removes all letters c and C from input.
